@@ -7,6 +7,10 @@ Download Code Zip file
 Go to the src_new folder
 
                    cd  src_new
+                   
+install requirements.txt
+
+                 pip insall -r requirements.txt
 
 
 makemigrations
